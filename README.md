@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Warehouse optimization](https://github.com/ramazanolcay/TASKS/blob/main/CEV_CapstoneProject_RamazanOlcay/CEV_CapstoneProject_RamazanOlcay.ipynb)
 
-- 🌱 I’m currently learning **OpenCV, Flask**
+- 🌱 I’m currently learning **DBT, Kafka, Spark**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Data**
 
 - 📫 How to reach me **ramazanolcay@outlook.com.tr**
 
